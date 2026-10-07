@@ -56,8 +56,7 @@ Ni contacts, ni photos, ni identifiant publicitaire. L'application ne contient a
 ## 4. Ce que voient les autres joueurs
 
 - **Tous les joueurs**, dans le classement et la recherche : votre pseudo, votre niveau, votre expérience, votre nombre de communes complétées et votre succès équipé.
-- **Vos amis**, si votre profil n'est pas privé : des statistiques globales (succès, départements, communes découvertes et complétées par niveau de difficulté, lieux découverts par rareté, records de série, défis réussis, date d'inscription).
-- **Profil privé** : vos amis ne voient plus ces statistiques. Votre pseudo, votre niveau et votre expérience restent visibles dans le classement et la recherche.
+- **Vos amis** : des statistiques globales (succès, départements, communes découvertes et complétées par niveau de difficulté, lieux découverts par rareté, records de série, défis réussis, date d'inscription).
 - **Jamais** : votre carte, la liste de vos communes ou de vos lieux, ni aucune position.
 
 ## 5. Qui traite vos données pour nous
