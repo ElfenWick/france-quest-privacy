@@ -25,7 +25,7 @@ Si vous signalez un lieu (lieu inexistant, mal placé, etc.), nous enregistrons 
 
 - **Inscription par e-mail** : votre adresse e-mail et le pseudo que vous choisissez. Votre mot de passe n'est jamais stocké en clair.
 - **Connexion avec Google** : l'identifiant de votre compte Google et les informations que Google transmet à la connexion (adresse e-mail, nom et photo de profil).
-- **Pseudo par défaut** : si vous n'en choisissez pas (connexion Google), un pseudo est créé à partir de la partie de votre adresse e-mail située avant le « @ ». Vous pouvez le modifier à tout moment dans le Profil.
+- **Pseudo par défaut** : si vous n'en choisissez pas (connexion Google), un pseudo neutre vous est attribué, par exemple « Explorateur4821 ». Les comptes créés avant le 7 octobre 2026 ont reçu un pseudo tiré de la partie de leur adresse e-mail située avant le « @ ». Dans tous les cas, vous pouvez le modifier à tout moment dans le Profil.
 
 ### Votre progression de jeu
 
